@@ -32,6 +32,9 @@ public class BasicsTest {
 	System.out.println(placeID);
 	System.out.println(placeID);
 	System.out.println(placeID);
+	System.out.println(placeID);
+	System.out.println(placeID);
+	System.out.println(placeID);
 	//Update place 
 	String newAddress="70 Summer walk, USA";
    given().log().all().queryParam("key", "qaclick123").header("Content-Type","application/json").
